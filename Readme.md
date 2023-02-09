@@ -6,7 +6,7 @@
 
 <br>
 
-Link to live site: https://michaelw1996.github.io/Portfolio_repository/
+Link to live site: https://michaelw1996.github.io/Portfolio/
 
 <br>
 
