@@ -1,6 +1,6 @@
 # Portfolio
 
-### I'd like to use a Portfolio to promote myslef to potential employers/clients 
+### I'd like to use a Portfolio to promote myslef to potential employers/clients
 
 #### Below i have detailed the process of making this portfolio.
 
@@ -80,7 +80,7 @@ Work:
         first card takes space of 2 normal cards
         Card text is now top left
 
-Contact: 
+Contact:
 
     List of links to Github, email and LinkedIn, elements glow to signal that they can be clicked
 
@@ -93,10 +93,9 @@ Contact:
         Links horizontally aligned, width determined by content, aligned to centre of page
         Black border appears above
 
-Footer: 
+Footer:
 
-    Note at bottom of page, no changes to element by width   
-
+    Note at bottom of page, no changes to element by width
 
 Screenshots below
 
@@ -142,7 +141,6 @@ Desktop:
 
 <br>
 
-
 ## Code notes
 
 HTML:
@@ -158,5 +156,10 @@ Accesibility
 
     Accesility should be good on the site thanks to use of appropriate HTML containers as well as adding in alternative text for images using the "alt=" attribute on the <img> tags.
 
+## Changelog
+
+19/03/23 - New Project added, only HTML changed
+
+22/05/23 - New Project added, old placeholder removed
 
 Coded by Michael Walters
